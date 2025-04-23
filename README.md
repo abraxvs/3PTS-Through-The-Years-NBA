@@ -3,7 +3,7 @@
 - 3PtsOverGamesPlayedPerYearInterval.py normalizes the data considering total games played. As more games would inflate the number of 3PA
 
 ### How to run
-You can change the interval size and select the years. (default is 5 for the interval and years 1995-2023)
+You can change the interval size and select the years. (default is 3 for the interval and years 1995-2024)
 Then just run & debug.
 
 ### Requirements
